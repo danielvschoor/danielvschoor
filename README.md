@@ -1,4 +1,4 @@
-### Hi there 👋
+![Danielvschoor's github stats](https://github-readme-stats.vercel.app/api?username=danielvschoor&show_icons=true&theme=dark)
 
 <!--
 **danielvschoor/danielvschoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
